@@ -1,0 +1,11 @@
+com\javatechie\chatgptbot\dto\Message.class
+com\javatechie\chatgptbot\dto\ChatGPTRequest.class
+com\javatechie\chatgptbot\dto\ChatGPTResponse$Choice.class
+com\javatechie\chatgptbot\config\WebConfig.class
+com\javatechie\chatgptbot\dto\ChatGPTResponse.class
+com\javatechie\chatgptbot\config\FlugEncryptor.class
+com\javatechie\chatgptbot\config\RequestLoggingInterceptor.class
+com\javatechie\chatgptbot\util\Util.class
+com\javatechie\chatgptbot\config\OpenAIConfig.class
+com\javatechie\chatgptbot\controller\CustomBotController.class
+com\javatechie\chatgptbot\ChatgptBotApplication.class

@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ServletInitializer<chatgptbot>",
+            "request": "launch",
+            "mainClass": "com.javatechie.chatgptbot.ChatgptBotApplication", // 여기에 본인의 메인 클래스 경로를 입력하세요
+            "args": [
+                // 애플리케이션에 필요한 인자가 있다면 여기에 추가
+            ],
+            "env": {
+                "SPRING_OUTPUT_ANSI_ENABLED": "always" // ANSI 컬러 출력을 활성화하는 옵션
+            },
+            "console": "internalConsole",
+            "projectName": "chatgptbot",
+        }
+    ]
+}
